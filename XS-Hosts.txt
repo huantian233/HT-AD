@@ -1,3 +1,7 @@
+[小说去广告]
+! 番茄小说
+! QQ浏览器小说底下广告
+! by: huantian666
 ||123.182.49.223:443^$app=com.dragon.read
 ||fgo62tudkavcn90gmiem3ltu17jig9sq4em8a15jqs6vandf4nrvufr4.qc.bsccdn.net^$app=com.dragon.read
 ||125.74.34.249:443^$app=com.dragon.read
