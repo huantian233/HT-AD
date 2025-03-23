@@ -1,0 +1,35 @@
+﻿# 番茄小说广告
+DOMAIN-SUFFIX,p6-ad-sign.byteimg.com
+DOMAIN-SUFFIX,p9-ad-sign.byteimg.com
+DOMAIN-SUFFIX,i.snssdk.com
+DOMAIN-SUFFIX,i-lq.snssdk.com
+DOMAIN-SUFFIX,dig.bdurl.net
+DOMAIN-SUFFIX,zijieapi.com
+DOMAIN-SUFFIX,activity-ag.awemeughun.com
+DOMAIN-SUFFIX,tnc3-alisc1.snssdk.com
+DOMAIN-SUFFIX,security-lq.snssdk.com
+DOMAIN-SUFFIX,tnc3-aliec2.snssdk.com
+DOMAIN-SUFFIX,msync-im1-vip6-std.easemob.com
+DOMAIN-SUFFIX,api.iegadp.qq.com
+DOMAIN-SUFFIX,default.ixigua.com
+DOMAIN-SUFFIX,v6-novelapp.ixigua.com
+DOMAIN-SUFFIX,novelapp.ixigua.com
+DOMAIN-SUFFIX,byteorge.com
+DOMAIN-SUFFIX,bytegoofy.com
+DOMAIN-SUFFIX,bytedance.com
+#IP规则
+IP-CIDR,49.71.37.101/32,no-resolve
+IP-CIDR,117.71.105.23/32,no-resolve
+IP-CIDR,218.94.207.205/32,no-resolve
+IP-CIDR,117.92.229.188/32,no-resolve
+IP-CIDR,101.36.166.16/32,no-resolve
+IP-CIDR,180.96.2.114/32,no-resolve
+
+# 其他广告
+DOMAIN-SUFFIX,evtubescms.phncdn.com
+DOMAIN-SUFFIX,deprecated.bitpix.top
+
+# QQ浏览器小说底下广告
+DOMAIN-SUFFIX,kde.qq.com
+DOMAIN-SUFFIX,report.nfa.qq.com
+DOMAIN-SUFFIX,sdkapiv2.bizport.cn
