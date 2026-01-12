@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,epicgames-download1.akamaized.net
 DOMAIN-SUFFIX,fastly-download.epicgames.com
 DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN-SUFFIX,steamcontent.com
+#123网盘
+DOMAIN-SUFFIX,123684.com
